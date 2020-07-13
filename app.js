@@ -80,3 +80,4 @@ randomBtn.addEventListener("click", function () {
 	let randomNumber = Math.floor(Math.random() * reviews.length);
 	showQuote(randomNumber);
 });
+// This project was created by Can Koçman on July 12, 2020
