@@ -1,0 +1,2 @@
+# quoteslider
+Quote Slider App
